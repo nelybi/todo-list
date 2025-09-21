@@ -1,6 +1,6 @@
 # 📝 To-Do List Project
 
-Ce projet est une petite application de gestion de tâches (**to-do list**) que j’ai commencée en **Vanilla JavaScript**.
+Ce projet est une petite application de gestion de tâches (**to-do list**) que j’ai commencé en **Vanilla JavaScript**.
 
 Objectif du projet
 - Créer une application simple pour ajouter, marquer comme faites et supprimer des tâches.
