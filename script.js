@@ -36,3 +36,8 @@ btnNewTask.addEventListener("click", () => {
   });
   newTask.value = "";
 });
+// 1.	To-Do List améliorée (next step du projet actuel)
+// 	•	Sauvegarder les tâches dans localStorage
+// 	•	Ajouter un filtre (Toutes / Terminées / À faire)
+// 	•	Trier les tâches (par date, alphabétique…)
+// 	•	Ajouter une petite animation (fadeIn/fadeOut)
