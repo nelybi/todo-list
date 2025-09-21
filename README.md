@@ -3,7 +3,7 @@
 Ce projet est une petite application de gestion de tâches (**to-do list**) que j’ai commencé en **Vanilla JavaScript**.
 
 Objectif du projet
-- Créer une application simple pour ajouter, marquer comme faites et supprimer des tâches.
+- Créer une application hyper simple pour ajouter, marquer comme faites et supprimer des tâches.
 - Utiliser uniquement du **JavaScript natif (Vanilla JS)** dans un premier temps.
 - Faire évoluer le projet progressivement vers **TypeScript (Vanilla TS)** pour profiter du typage.
 - Explorer par la suite une version avec **React**, afin d’apprendre la logique des composants et la gestion d’état.
